@@ -1,7 +1,7 @@
 spring:
   redis:
     host: localhost
-    password:
+    password:diem466899
     port: 6379
     lettuce:
       shutdown-timeout: 30000
